@@ -1,6 +1,6 @@
 # CSE440 – Natural Language Processing II (BRAC University)
 
-Lab assignments from CSE440, BRAC University's natural language processing
+Lab assignments from CSE440 (Fall 2025), BRAC University's natural language processing
 course, in Python. Covers corpus analysis with NLTK, text vectorization,
 word embeddings, and neural networks for text classification. Each lab
 folder contains my solution code and the assignment question (PDF).
