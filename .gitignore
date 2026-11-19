@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# Large public datasets (download separately, see README)
+*.csv
+glove.6B.*.txt
